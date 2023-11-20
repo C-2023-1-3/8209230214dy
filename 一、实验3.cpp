@@ -8,5 +8,8 @@ int main()
 	cout << "long length:" << sizeof(long) << endl;
 	cout << "long long length:" << sizeof(long long) << endl;
 	cout << "string length:" << sizeof(string) << endl;
+	cout << "bool length:" << sizeof(bool) << endl;
+	cout << "float length:" << sizeof(float) << endl;
+	cout << "double length:" << sizeof(double) << endl;
 	return 0;
 }
